@@ -1,0 +1,697 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    left: 0;
+    font-family: sans-serif;
+    background-color: #12364F;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 108px;
+    left: 0px;
+    top: 0px;
+    background: #020824;
+    display: flex;
+}
+
+.logo {
+    position: absolute;
+    width: 124px;
+    height: 43px;
+    left: 71px;
+    top: 27px;
+    display: flex;
+}
+
+.download {
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 206px;
+    height: 35px;
+    left: 70%;
+    top: 27px;
+    text-align: center;
+    background: #048415;
+    color: white;
+    text-decoration: none;
+    /* Встановити Steam */
+    padding-top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 12px;
+
+}
+
+nav {
+    display: flex;
+
+    background-image: linear-gradient(to right, #5CA5F2, #386696);
+    /* Rectangle 3 */
+justify-content: space-around;
+    position: relative;
+    width: 100%;
+    height: 85px;
+    left: 0px;
+    top: 172px;
+
+    background: linear-gradient(90deg, #5CA5F2 0%, #386696 100%);
+
+
+}
+
+nav a {
+    display: flex;
+
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    opacity: 0.5;
+
+    /* Магазин */
+
+    position: relative;
+    width: 200px;
+    height: 22px;
+    left: -15px;
+    top: 20px;
+    justify-content: space-around;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+
+
+}
+
+.dyy {
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 850px;
+    left: 100px;
+    
+
+
+}
+
+main {
+    position: relative;
+    width: 100%;
+    top: 0px;
+    height: 900px;
+}
+
+.hreef a {
+    position: relative;
+    width: 770px;
+    height: 344px;
+    left: 25%;
+    top: 370px;
+    background: linear-gradient(278.48deg, #5FD5FD 15.65%, #386696 94.08%);
+    padding-top: 29px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    text-decoration: none;
+
+
+
+}
+
+.dyy a {
+    position: absolute;
+    top: 420px;
+    width: 410px;
+    height: 60px;
+    left: 170px;
+}
+
+.dylight {
+
+    position: relative;
+    top: 200px;
+    width: 1000px;
+    height: 800px;
+    left: 170px;
+
+}
+
+.actions {
+    position: relative;
+    width: 100%;
+    height: 642px;
+    left: 90px;
+    top: 40px;
+}
+
+.action1 img {
+    position: relative;
+    width: 250px;
+    height: 180px;
+    left: 104px;
+    top: -250px;
+    opacity: 0.7;
+}
+
+.action1 a {
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    left: 104px;
+    top: -70px;
+    background-image: linear-gradient(to right bottom, #03516A, #069ED0);
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    opacity: 0.7;
+    width: 180px;
+    height: 40px;
+}
+
+.action2 img {
+    position: relative;
+    width: 250px;
+    height: 180px;
+    left: 368px;
+    top: -435px;
+    opacity: 0.7;
+}
+
+.action2 a {
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    left: 368px;
+    top: -70px;
+    background-image: linear-gradient(to right bottom, #03516A, #069ED0);
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    opacity: 0.7;
+    width: 180px;
+    height: 40px;
+}
+
+.action3 img {
+    position: relative;
+    width: 150px;
+    height: 110px;
+    left: 634px;
+    top: -620px;
+    opacity: 0.7;
+}
+
+.action3 a {
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    left: 634px;
+    top: -140px;
+    background-image: linear-gradient(to right bottom, #03516A, #069ED0);
+    padding-right: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    opacity: 0.7;
+    width: 110px;
+}
+
+.action4 img {
+    position: relative;
+    width: 150px;
+    height: 110px;
+    left: 634px;
+    top: -600px;
+    opacity: 0.7;
+}
+
+.action4 a {
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    left: 634px;
+    top: -29px;
+    background-image: linear-gradient(to right bottom, #03516A, #069ED0);
+    padding-right: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    opacity: 0.7;
+    width: 110px;
+}
+
+.battlefield {
+    /* header (3) */
+
+    
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    height: 407px;
+    left: 0px;
+
+}
+
+.game img {
+    position: relative;
+    width: 205px;
+    height: 205px;
+    left: 6%;
+    top: 734px;
+    border-radius: 10px;
+}
+
+.game2 img {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    left: 28%;
+    top: 734px;
+    border-radius: 10px;
+
+
+}
+
+.game3 img {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    left: 55%;
+    top: 734px;
+    border-radius: 10px;
+}
+
+.game4 img {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    left: 77%;
+    top: 734px;
+    border-radius: 10px;
+}
+
+.welcome {
+    position: relative;
+    width: 500px;
+    height: 102px;
+    left: 13%;
+    top: -220px;
+    background: #102C40;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+
+}
+
+
+.welcome p {
+    /* Увійдіть, щоб переглянути особисті рекомендації */
+
+    position: relative;
+    width: 752px;
+    height: 52px;
+    left: 15px;
+    top: -120px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 250px;
+
+    color: #FFFFFF;
+
+
+}
+
+.welcome a {
+    color: white;
+    
+
+
+}
+
+.welcome .wee {
+    position: relative;
+    top: 0%;
+    left: 39%;
+    color: white;
+    background-color: #5CAE1E;
+    text-decoration: none;
+    padding: 25px auto 25px auto;
+
+    width: 405px;
+    height: 200px;
+}
+.wee{
+    position: relative;
+    /* Rectangle 22 */
+margin-top: 0px;
+padding: 10px 30px;
+width: 165px;
+height: 38px;
+left: 144px;
+top: 673px;
+
+background: #5CAE1E;
+
+
+}
+.navigation2 {
+    position: absolute;
+    top: 190%;
+    left: 20;
+}
+
+.nav2 {
+    position: relative;
+
+}
+
+.nav2 a {
+    background-image: linear-gradient(to left, #0B90BC, #5FD5FD);
+    color: white;
+    text-decoration: none;
+    margin-left: 125px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+
+}
+
+.race {
+    position: relative;
+    justify-content: space-around;
+    width: 100%;
+    height: 300px;
+    left: -15;
+    display: flex;
+
+}
+
+.img {
+    position: relative;
+    width: 200px;
+    height: 156px;
+    left: 3%;
+    top: 0;
+    border-radius: 10px;
+}
+
+.img1 {
+    position: relative;
+    width: 200px;
+    height: 156px;
+    left: 3%;
+    top: 0;
+    border-radius: 10px;
+}
+
+.img2 {
+    position: relative;
+    width: 200px;
+    height: 156px;
+    left: 3%;
+    top: 0;
+    border-radius: 10px;
+}
+
+.other {
+    background-color: #174362;
+    position: relative;
+    top: 0px;
+}
+
+.more img {
+    position: relative;
+    width: 225px;
+    height: 100px;
+    left: 11%;
+    top: 0%;
+}
+
+.more a {
+    position: absolute;
+    width: 320px;
+    height: 43px;
+    left: 33%;
+    top: 0%;
+    background: #112F44;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.more2 img {
+    position: relative;
+    width: 225px;
+    height: 100px;
+    left: 11%;
+    top: 100%;
+}
+
+.more2 a {
+    position: absolute;
+    width: 320px;
+    height: 43px;
+    left: 33%;
+    top: 20%;
+    background: #112F44;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.more3 img {
+    position: relative;
+    width: 225px;
+    height: 100px;
+    left: 11%;
+    top: 306%;
+}
+
+.more3 a {
+    position: absolute;
+    width: 320px;
+    height: 43px;
+    left: 33%;
+    top: 40%;
+    background: #112F44;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.more4 img {
+    position: relative;
+    width: 225px;
+    height: 100px;
+    left: 11%;
+    top: 324%;
+}
+
+.more4 a {
+    position: absolute;
+    width: 320px;
+    height: 43px;
+    left: 33%;
+    top: 60%;
+    background: #112F44;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.more5 img {
+    position: relative;
+    width: 225px;
+    height: 100px;
+    left: 11%;
+    top: 342%;
+}
+
+.more5 a {
+    position: absolute;
+    width: 320px;
+    height: 43px;
+    left: 33%;
+    top: 80%;
+    background: #112F44;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.img_1 img {
+    position: absolute;
+    width: 276px;
+    height: 499px;
+    left: 71%;
+    top: 236%;
+}
+
+footer {
+    position: relative;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    height: 300px;
+    top: 1900px;
+    width: 100%;
+}
+
+footer p {
+    position: relative;
+    left: 20%;
+    text-align: center;
+    width: 500px;
+    /* © 2025 Valve Corporation. Усі права збережені. Всі торгові марки є власністю відповідних власників у США та інших країнах. ПДВ включено у всі ціни, де він застосовний.   Політика конфіденційності   Правова інформація Угода передплатника Steam | Повернення | Файли cookie */
+
+    height: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.footer1 {
+
+    float: left;
+    width: 144px;
+    height: 103px;
+    padding-top: 50px;
+    padding-left: 20px;
+
+}
+
+.footer2 {
+
+    float: right;
+    width: 104px;
+    height: 23px;
+    padding-right:20px;
+    padding-bottom: 120px;
+}
+
+nav a:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+.download:hover {
+    border: 10px solid #048415;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top: 9px;
+}
+
+.action1 :hover {
+    opacity: 1;
+    transition: 1.5s linear;
+    text-decoration: underline;
+}
+
+.action2 :hover {
+    opacity: 1;
+    transition: 1.5s linear;
+    text-decoration: underline;
+}
+
+.action3 :hover {
+    opacity: 1;
+    transition: 1.5s linear;
+    text-decoration: underline;
+}
+
+.action4 :hover {
+    opacity: 1;
+    transition: 1.5s linear;
+    text-decoration: underline;
+}
+
+.game :hover {
+    border: 2px solid white;
+}
+
+.game2 :hover {
+    border: 2px solid white;
+}
+
+.game3 :hover {
+    border: 2px solid white;
+}
+
+.game4 :hover {
+    border: 2px solid white;
+}
+
+.wee:hover {
+    border: 2px solid white;
+    padding: 5px 10px 5px 10px;
+}
+
+.nav2 a:hover {
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: underline;
+    transition: 1s linear;
+}
+
+.game5 :hover {
+    width: 212px;
+    height: 136px;
+    transition: 1s linear;
+}
+
+.game6 :hover {
+    width: 212px;
+    height: 136px;
+    transition: 1s linear;
+}
+
+.game7 :hover {
+    width: 212px;
+    height: 136px;
+    transition: 1s linear;
+}
+
+.more a:hover {
+    background-color: #0B90BC;
+    border-left: 2px solid #112F44;
+}
+
+.more2 a:hover {
+    background-color: #0B90BC;
+    border-left: 2px solid #112F44;
+}
+
+.more3 a:hover {
+    background-color: #0B90BC;
+    border-left: 2px solid #112F44;
+}
+
+.more4 a:hover {
+    background-color: #0B90BC;
+    border-left: 2px solid #112F44;
+}
+
+.more5 a:hover {
+    background-color: #0B90BC;
+    border-left: 2px solid #112F44;
+}
